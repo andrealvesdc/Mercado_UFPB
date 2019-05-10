@@ -1,0 +1,2 @@
+# Mercado_UFPB
+Projeto desenvolvido durante a cadeira de Desenvolvimento de Software Avançado 1, do curso de Sistemas de Informação da UFPB, o projeto tinha como objetivo o desenvolvimento de uma aplicação web para os alunos do campus venderem ou comparem produtos usados ou novos ofertados por eles mesmos.  Algumas tecnologias utilizadas: NodeJS, VueJS, PostgresSQL, mongoDB, Bootstrap 4, jQuery, ExpresJS. 
